@@ -8,7 +8,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### align="left">Play Game with me
+#### Play Game with me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmdzkra/Ahmdzkra/output/pacman-contribution-graph-dark.svg">
